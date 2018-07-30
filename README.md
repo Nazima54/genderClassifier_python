@@ -7,3 +7,4 @@ This is the code for the gender classification challenge.The code uses the sciki
 Scikit-learn (http://scikit-learn.org/stable/install.html)
 numpy (pip install numpy)
 scipy (pip install scipy)
+Scikit-learn (http://scikit-learn.org/stable/install.html) numpy (pip install numpy) scipy (pip install scipy)
